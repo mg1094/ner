@@ -1,0 +1,14 @@
+[project]
+name = "ner-expert"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "accelerate>=1.11.0",
+    "datasets>=4.4.1",
+    "peft>=0.18.0",
+    "torch<2.3.0",
+    "transformers>=4.57.1",
+    "trl>=0.25.1",
+]

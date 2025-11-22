@@ -1,0 +1,27 @@
+[
+    {
+        "instruction": "从文本中提取魔法药剂的成分 (Ingredient) 和功效 (Effect)。",
+        "input": "将两片龙鳞草和一滴凤凰泪混合，可以治愈任何外伤。",
+        "output": "Ingredient: [龙鳞草, 凤凰泪], Effect: [治愈任何外伤]"
+    },
+    {
+        "instruction": "从文本中提取魔法药剂的成分 (Ingredient) 和功效 (Effect)。",
+        "input": "月光花瓣在满月时采摘，服用后能获得夜视能力。",
+        "output": "Ingredient: [月光花瓣], Effect: [获得夜视能力]"
+    },
+    {
+        "instruction": "从文本中提取魔法药剂的成分 (Ingredient) 和功效 (Effect)。",
+        "input": "这瓶药水含有剧毒的曼德拉草根，会导致瞬间麻痹。",
+        "output": "Ingredient: [曼德拉草根], Effect: [瞬间麻痹]"
+    },
+    {
+        "instruction": "从文本中提取魔法药剂的成分 (Ingredient) 和功效 (Effect)。",
+        "input": "只需加入少许独角兽的角粉末，就能净化水源。",
+        "output": "Ingredient: [独角兽的角粉末], Effect: [净化水源]"
+    },
+    {
+        "instruction": "从文本中提取魔法药剂的成分 (Ingredient) 和功效 (Effect)。",
+        "input": "混合了火蜥蜴的血液和冰霜巨人的汗水，能让人免疫火焰伤害。",
+        "output": "Ingredient: [火蜥蜴的血液, 冰霜巨人的汗水], Effect: [免疫火焰伤害]"
+    }
+]
